@@ -13,6 +13,9 @@ return {
 	"Loadstring now uses proto conversion";
 	"Add Unix-like pipe IO support";
 	"Use buffer for deserialisation instead of string";
+	"Added CanvasGroup to :viewgui";
+	"Fixed duration time in Functions";
+	"Added LuaU global import optimisation to loadstring";
 	"";
 	"[v256 2024-04-16 08:40 UTC] @Dimenpsyonal";
 	":banlist text is now selectable"; 
